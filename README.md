@@ -11,6 +11,8 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Appwrite](https://img.shields.io/badge/Appwrite-%23005AFF.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-%230056DF.svg?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=api&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white) ![Cron](https://img.shields.io/badge/Cron-%23161616.svg?style=for-the-badge&logo=cron&logoColor=white)
 
+---
+
 ## 📦 Flutter Packages:
 
 | Package Name | Description |
@@ -19,6 +21,16 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 | [dynamicutils](https://pub.dev/packages/dynamicutils) | A collection of utility functions for Flutter projects. |
 | [quran_sharif](https://pub.dev/packages/quran_sharif) | An elegant Quran app for Flutter. |
 | [daynightbanner](https://pub.dev/packages/daynightbanner) | A banner to indicate day/night mode in Flutter apps. | 
+
+---
+
+## 📦 NPM Packages:
+
+| Package Name | Description |
+|--------------|-------------|
+| [quran_sharif](https://www.npmjs.com/package/quran_sharif) | A library to work with the Quran in JavaScript. | 
+| [react-authentication-component](https://www.npmjs.com/package/react-authentication-component) | A reusable authentication component for React apps. |
+| [arabic-number-converter](https://www.npmjs.com/package/arabic-number-converter) | A utility to convert Arabic numerals to Roman numerals. |
 
 ---
 
