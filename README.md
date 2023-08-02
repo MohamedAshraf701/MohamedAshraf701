@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 I am a Flutter, Android, and Node.js developer with experience in various technologies and frameworks. I have expertise in working with Firebase, Appwrite, Supabase, MySQL, MongoDB, REST API, socket connections, and cron jobs. I also have knowledge of communication apps like Slack, Jira, GitHub, GitLab, and Asana.
 
@@ -14,13 +13,6 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 
 ---
 
-## 📚 Education:
-
-- **Saurashtra University**
-  - BCA (Bachelor of Computer Applications)
-  - MCSIT (Master of Computer Science and Information Technology)
-    
----
 ## 📦 Flutter Packages:
 
 | Package Name | Description |
@@ -39,39 +31,6 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 | [quran_sharif](https://www.npmjs.com/package/quran_sharif) | A library to work with the Quran in JavaScript. | 
 | [react-authentication-component](https://www.npmjs.com/package/react-authentication-component) | A reusable authentication component for React apps. |
 | [arabic-number-converter](https://www.npmjs.com/package/arabic-number-converter) | A utility to convert Arabic numerals to Roman numerals. |
-
----
-
-## 📂 Flutter Projects:
----
-
-### Task Manager App
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/541bf0d9-9ae8-409a-8e3f-20fb98f84b42" width="20%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/aab91f9b-20e2-4808-8e06-f6374d63434a" width="20%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/a41044d0-f59f-4637-ae34-1ac8f2626627" width="20%" style="border-radius: 10px;">
-</div>
-
----
-
-### Expensify App
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/98f331dc-a7d9-451b-b001-d8d93212c0de" width="20%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/5b8b8724-ee2d-4cbb-af1b-2a58a81c9ed9" width="20%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/019f76b8-8b9e-4161-a5a2-11273a743e16" width="20%" style="border-radius: 10px;">
-</div>
-
----
-
-### Classes App
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/ac9efc7d-9113-4e2f-bd17-af785e420809" width="20%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/994fad77-c30e-41dd-a143-496320d57868" width="20%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/2ffce672-bf55-4067-9d90-2caa26f516b2" width="20%" style="border-radius: 10px;">
-</div>
 
 ---
 
