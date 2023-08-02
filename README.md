@@ -34,6 +34,19 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 
 ---
 
+## 📂 Flutter Projects:
+
+1. **Task Manager**
+   ![Task Manager](https://zaid.digital/static/media/task_manager.814de844.png)
+
+2. **Expensify**
+   ![Expensify](https://zaid.digital/static/media/expensify.23b38daf.png)
+
+3. **Classes**
+   ![Classes](https://zaid.digital/static/media/classes.e1cec953.png)
+   
+---
+
 ## 🚀 Work Experience:
 
 ### Coderkube Technologies
