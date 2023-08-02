@@ -37,14 +37,14 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 ## 📂 Flutter Projects:
 
 1. **Task Manager**
-   ![Task Manager](https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/da2d82f9-3b28-4799-b129-d9e31aa95b6e)
+   ![Task Manager](https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/da2d82f9-3b28-4799-b129-d9e31aa95b6e){:width="400px"}
 
 
 2. **Expensify**
-   ![Expensify](https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/fc39dbb7-6b5b-40c9-9d5d-e726d2b42709)
+   ![Expensify](https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/fc39dbb7-6b5b-40c9-9d5d-e726d2b42709){:width="400px"}
 
 3. **Classes**
-   ![Classes](https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/4ac06769-280b-4c13-b256-8e0fb3b57cd7)
+   ![Classes](https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/4ac06769-280b-4c13-b256-8e0fb3b57cd7){:width="400px"}
 
    
 ---
