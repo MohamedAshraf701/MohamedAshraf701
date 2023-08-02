@@ -56,9 +56,15 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
   <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/019f76b8-8b9e-4161-a5a2-11273a743e16" width="30%" style="border-radius: 10px;">
 </div>
 
-
 ---
 
+### Classes App
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/ac9efc7d-9113-4e2f-bd17-af785e420809" width="30%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/994fad77-c30e-41dd-a143-496320d57868" width="30%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/2ffce672-bf55-4067-9d90-2caa26f516b2" width="30%" style="border-radius: 10px;">
+</div>
 
 ---
 
