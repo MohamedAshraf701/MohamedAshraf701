@@ -13,12 +13,12 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 
 ## 📦 Flutter Packages:
 
-| Package Name | Description | Preview |
-|--------------|-------------|---------|
-| [gradient_icon](https://pub.dev/packages/gradient_icon) | A Flutter package to create gradient icons. | ![gradient_icon](https://example.com/path/to/gradient_icon_preview.png) |
-| [dynamicutils](https://pub.dev/packages/dynamicutils) | A collection of utility functions for Flutter projects. | ![dynamicutils](https://example.com/path/to/dynamicutils_preview.png) |
-| [quran_sharif](https://pub.dev/packages/quran_sharif) | An elegant Quran app for Flutter. | ![quran_sharif](https://example.com/path/to/quran_sharif_preview.png) |
-| [daynightbanner](https://pub.dev/packages/daynightbanner) | A banner to indicate day/night mode in Flutter apps. | ![daynightbanner](https://example.com/path/to/daynightbanner_preview.png) |
+| Package Name | Description |
+|--------------|-------------|
+| [gradient_icon](https://pub.dev/packages/gradient_icon) | A Flutter package to create gradient icons. | 
+| [dynamicutils](https://pub.dev/packages/dynamicutils) | A collection of utility functions for Flutter projects. |
+| [quran_sharif](https://pub.dev/packages/quran_sharif) | An elegant Quran app for Flutter. |
+| [daynightbanner](https://pub.dev/packages/daynightbanner) | A banner to indicate day/night mode in Flutter apps. | 
 
 ---
 
