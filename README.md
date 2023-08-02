@@ -41,9 +41,9 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 ### Task Manager App
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/fd12b820-2166-483e-872b-73bf6d425caf" width="30%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/e00edd7e-8e4e-4476-afa2-939c2c28427f" width="30%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/0e9a87f1-6ddb-4af4-8811-b175c9138a30" width="30%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/fd12b820-2166-483e-872b-73bf6d425caf" width="23%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/e00edd7e-8e4e-4476-afa2-939c2c28427f" width="23%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/0e9a87f1-6ddb-4af4-8811-b175c9138a30" width="23%" style="border-radius: 10px;">
 </div>
 
 ---
@@ -51,9 +51,9 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 ### Expensify App
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/98f331dc-a7d9-451b-b001-d8d93212c0de" width="30%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/5b8b8724-ee2d-4cbb-af1b-2a58a81c9ed9" width="30%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/019f76b8-8b9e-4161-a5a2-11273a743e16" width="30%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/98f331dc-a7d9-451b-b001-d8d93212c0de" width="20%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/5b8b8724-ee2d-4cbb-af1b-2a58a81c9ed9" width="20%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/019f76b8-8b9e-4161-a5a2-11273a743e16" width="20%" style="border-radius: 10px;">
 </div>
 
 ---
@@ -61,9 +61,9 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 ### Classes App
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/ac9efc7d-9113-4e2f-bd17-af785e420809" width="30%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/994fad77-c30e-41dd-a143-496320d57868" width="30%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/2ffce672-bf55-4067-9d90-2caa26f516b2" width="30%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/ac9efc7d-9113-4e2f-bd17-af785e420809" width="20%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/994fad77-c30e-41dd-a143-496320d57868" width="20%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/2ffce672-bf55-4067-9d90-2caa26f516b2" width="20%" style="border-radius: 10px;">
 </div>
 
 ---
