@@ -36,7 +36,7 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 ---
 
 ## 📂 Flutter Projects:
-
+---
 ### Task Manager App
 
 <div style="display: flex; justify-content: space-between;">
@@ -44,10 +44,18 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
   <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/e00edd7e-8e4e-4476-afa2-939c2c28427f" width="30%" style="border-radius: 10px;">
   <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/0e9a87f1-6ddb-4af4-8811-b175c9138a30" width="30%" style="border-radius: 10px;">
 </div>
+---
+### Expensify App
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/05399578-17f7-4f62-8117-f669de5b96ff" width="30%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/5b8b8724-ee2d-4cbb-af1b-2a58a81c9ed9" width="30%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/70a21c42-2fa2-47a4-b8d3-5d6b17af1430" width="30%" style="border-radius: 10px;">
+</div>
+---
 
 
 ---
-
 
 ## 🚀 Work Experience:
 
