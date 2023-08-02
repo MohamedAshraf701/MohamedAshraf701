@@ -41,9 +41,9 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 ### Task Manager App
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/fd12b820-2166-483e-872b-73bf6d425caf" width="23%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/e00edd7e-8e4e-4476-afa2-939c2c28427f" width="23%" style="border-radius: 10px;">
-  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/0e9a87f1-6ddb-4af4-8811-b175c9138a30" width="23%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/541bf0d9-9ae8-409a-8e3f-20fb98f84b42" width="20%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/aab91f9b-20e2-4808-8e06-f6374d63434a" width="20%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/a41044d0-f59f-4637-ae34-1ac8f2626627" width="20%" style="border-radius: 10px;">
 </div>
 
 ---
