@@ -36,24 +36,14 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 
 ## 📂 Flutter Projects:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="width: 30%; text-align: center; border-radius: 10px; overflow: hidden; border: 2px solid #ddd; margin: 5px;">
-    <p>Task Manager</p>
-    <img src="https://zaid.digital/static/media/task_manager.814de844.png" width="100%" style="border-radius: 10px;">
-  </div>
+### Task Manager App
 
-  <div style="width: 30%; text-align: center; border-radius: 10px; overflow: hidden; border: 2px solid #ddd; margin: 5px;">
-    <p>Expensify</p>
-    <img src="https://zaid.digital/static/media/expensify.23b38daf.png" width="100%" style="border-radius: 10px;">
-  </div>
-
-  <div style="width: 30%; text-align: center; border-radius: 10px; overflow: hidden; border: 2px solid #ddd; margin: 5px;">
-    <p>Classes</p>
-    <img src="https://zaid.digital/static/media/classes.e1cec953.png" width="100%" style="border-radius: 10px;">
-  </div>
-</div>
+| Screen 1         | Screen 2         | Screen 3         |
+|------------------|------------------|------------------|
+| ![Screen 1](https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/bd9cb283-c5ec-434c-b6f5-325f24c3d1fc) | ![Screen 2](https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/54c411a3-4f93-4309-904f-ece7ddf1f78f) | ![Screen 3]((https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/10e7a490-7a1d-418c-8b57-814dcd9c1dc5)) |
 
 ---
+
 
 ## 🚀 Work Experience:
 
