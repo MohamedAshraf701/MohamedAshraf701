@@ -36,39 +36,21 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 
 ## 📂 Flutter Projects:
 
-<style>
-  .project-container {
-    text-align: center;
-    border-radius: 10px;
-    overflow: hidden;
-    border: 2px solid #ddd;
-    margin: 10px;
-  }
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="width: 30%; text-align: center; border-radius: 10px; overflow: hidden; border: 2px solid #ddd; margin: 5px;">
+    <p>Task Manager</p>
+    <img src="https://zaid.digital/static/media/task_manager.814de844.png" width="100%" style="border-radius: 10px;">
+  </div>
 
-  .project-image {
-    width: 100%;
-    max-width: 300px;
-    border-radius: 10px;
-  }
-</style>
+  <div style="width: 30%; text-align: center; border-radius: 10px; overflow: hidden; border: 2px solid #ddd; margin: 5px;">
+    <p>Expensify</p>
+    <img src="https://zaid.digital/static/media/expensify.23b38daf.png" width="100%" style="border-radius: 10px;">
+  </div>
 
-<div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
-
-<div class="project-container">
-  <p>Task Manager</p>
-  <img src="https://zaid.digital/static/media/task_manager.814de844.png" class="project-image">
-</div>
-
-<div class="project-container">
-  <p>Expensify</p>
-  <img src="https://zaid.digital/static/media/expensify.23b38daf.png" class="project-image">
-</div>
-
-<div class="project-container">
-  <p>Classes</p>
-  <img src="https://zaid.digital/static/media/classes.e1cec953.png" class="project-image">
-</div>
-
+  <div style="width: 30%; text-align: center; border-radius: 10px; overflow: hidden; border: 2px solid #ddd; margin: 5px;">
+    <p>Classes</p>
+    <img src="https://zaid.digital/static/media/classes.e1cec953.png" width="100%" style="border-radius: 10px;">
+  </div>
 </div>
 
 ---
