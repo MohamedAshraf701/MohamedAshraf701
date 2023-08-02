@@ -36,15 +36,41 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 
 ## 📂 Flutter Projects:
 
-1. **Task Manager**<br>
-   <img src="https://zaid.digital/static/media/task_manager.814de844.png" width="400">
+<style>
+  .project-container {
+    text-align: center;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 2px solid #ddd;
+    margin: 10px;
+  }
 
-2. **Expensify**<br>
-   <img src="https://zaid.digital/static/media/expensify.23b38daf.png" width="400">
+  .project-image {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+  }
+</style>
 
-3. **Classes**<br>
-   <img src="https://zaid.digital/static/media/classes.e1cec953.png" width="400">
-   
+<div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
+
+<div class="project-container">
+  <p>Task Manager</p>
+  <img src="https://zaid.digital/static/media/task_manager.814de844.png" class="project-image">
+</div>
+
+<div class="project-container">
+  <p>Expensify</p>
+  <img src="https://zaid.digital/static/media/expensify.23b38daf.png" class="project-image">
+</div>
+
+<div class="project-container">
+  <p>Classes</p>
+  <img src="https://zaid.digital/static/media/classes.e1cec953.png" class="project-image">
+</div>
+
+</div>
+
 ---
 
 ## 🚀 Work Experience:
