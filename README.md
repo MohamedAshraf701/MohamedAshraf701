@@ -39,7 +39,12 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 
 ### Task Manager App
 
-| ![Screen 1](https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/fd12b820-2166-483e-872b-73bf6d425caf) | ![Screen 2](https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/e00edd7e-8e4e-4476-afa2-939c2c28427f) | ![Screen 3](https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/0e9a87f1-6ddb-4af4-8811-b175c9138a30) |
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/fd12b820-2166-483e-872b-73bf6d425caf" width="30%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/e00edd7e-8e4e-4476-afa2-939c2c28427f" width="30%" style="border-radius: 10px;">
+  <img src="https://github.com/MohamedAshraf701/MohamedAshraf701/assets/92545354/0e9a87f1-6ddb-4af4-8811-b175c9138a30" width="30%" style="border-radius: 10px;">
+</div>
+
 
 ---
 
