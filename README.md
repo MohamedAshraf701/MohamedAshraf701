@@ -14,6 +14,13 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 
 ---
 
+## 📚 Education:
+
+- **Saurashtra University**
+  - BCA (Bachelor of Computer Applications)
+  - MCSIT (Master of Computer Science and Information Technology)
+    
+---
 ## 📦 Flutter Packages:
 
 | Package Name | Description |
