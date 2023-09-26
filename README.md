@@ -52,17 +52,17 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 
 ---
 
-![MohamedAshraf701's Stats](https://github-readme-stats.vercel.app/api?username=MohamedAshraf701&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![MohamedAshraf701's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAshraf701&theme=vue-dark&hide_border=true)
-![MohamedAshraf701's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAshraf701&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![MohamedAshraf701's Stats](https://github-readme-stats.vercel.app/api?username=MohamedAshraf701&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+![MohamedAshraf701's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAshraf701&theme=transparent&hide_border=true)
+![MohamedAshraf701's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAshraf701&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
 ## Top Open Source -
-[![daynightbanner](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAshraf701&repo=daynightbanner)](https://github.com/MohamedAshraf701/daynightbanner)
+[![daynightbanner](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAshraf701&repo=daynightbanner)](https://github.com/MohamedAshraf701/daynightbanner&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 [![prayers_times](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAshraf701&repo=prayers_times&bg_color=0D1117)](https://github.com/MohamedAshraf701/prayers_times)
 [![gradient-icon](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAshraf701&repo=gradient-icon&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MohamedAshraf701/gradient-icon)
-[![npm_quran_sharif](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAshraf701&repo=npm_quran_sharif&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MohamedAshraf701/npm_quran_sharif)
+[![npm_quran_sharif](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAshraf701&repo=npm_quran_sharif&theme=transparent&show_icons=true&hide_border=true&layout=compact)](https://github.com/MohamedAshraf701/npm_quran_sharif)
 
 
 ---
