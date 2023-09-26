@@ -21,6 +21,7 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 | [dynamicutils](https://pub.dev/packages/dynamicutils) | A collection of utility functions for Flutter projects. |
 | [quran_sharif](https://pub.dev/packages/quran_sharif) | An elegant Quran app for Flutter. |
 | [daynightbanner](https://pub.dev/packages/daynightbanner) | A banner to indicate day/night mode in Flutter apps. | 
+| [prayers_times](https://pub.dev/packages/prayers_times) | Seamlessly access precise prayer times with our Flutter package tailored to your location. Enhance your namaz routine effortlessly. | 
 
 ---
 
