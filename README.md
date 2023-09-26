@@ -2,7 +2,7 @@
 I am a Flutter, Android, and Node.js developer with experience in various technologies and frameworks. I have expertise in working with Firebase, Appwrite, Supabase, MySQL, MongoDB, REST API, socket connections, and cron jobs. I also have knowledge of communication apps like Slack, Jira, GitHub, GitLab, and Asana.
 
 ![](https://komarev.com/ghpvc/?username=MohamedAshraf701&color=green)
-![GitHub Activity](https://img.shields.io/github/commit-activity/m/git-bot/MohamedAshraf701?label=Activity)
+![GitHub Activity](https://img.shields.io/github/commit-activity/m/MohamedAshraf701/git-bot?label=Activity)
 
 
 ## 🌐 Socials:
