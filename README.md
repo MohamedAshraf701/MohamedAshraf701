@@ -55,7 +55,7 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 ---
 
 ![MohamedAshraf701's Stats](https://github-readme-stats.vercel.app/api?username=MohamedAshraf701&theme=transparent&show_icons=true&hide_border=false&count_private=true)
-![MohamedAshraf701's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAshraf701&theme=transparent&hide_border=false&count_private=true)
+![MohamedAshraf701's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAshraf701&theme=transparent&hide_border=false)
 <p align="center">
   <a href="https://github.com/MohamedAshraf701">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAshraf701&theme=radical" alt="MohamedAshraf701's GitHub Contribution"/>
