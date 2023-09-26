@@ -2,6 +2,8 @@
 I am a Flutter, Android, and Node.js developer with experience in various technologies and frameworks. I have expertise in working with Firebase, Appwrite, Supabase, MySQL, MongoDB, REST API, socket connections, and cron jobs. I also have knowledge of communication apps like Slack, Jira, GitHub, GitLab, and Asana.
 
 ![](https://komarev.com/ghpvc/?username=MohamedAshraf701&color=green)
+![GitHub Activity](https://img.shields.io/github/commit-activity/m/MohamedAshraf701/MohamedAshraf701?label=Activity)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashraf_7_0_1?igshid=OGQ5ZDc2ODk2ZA==)
@@ -54,7 +56,7 @@ I am a Flutter, Android, and Node.js developer with experience in various techno
 ![MohamedAshraf701's Stats](https://github-readme-stats.vercel.app/api?username=MohamedAshraf701&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![MohamedAshraf701's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAshraf701&theme=vue-dark&hide_border=true)
 ![MohamedAshraf701's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAshraf701&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![Contributions Calendar](https://github-readme-calendar.herokuapp.com?user=MohamedAshraf701&theme=dark&v=2)
+
 
 
 ---
