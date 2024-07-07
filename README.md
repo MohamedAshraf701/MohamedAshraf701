@@ -127,6 +127,7 @@
 | [quran_sharif](https://www.npmjs.com/package/quran_sharif) | A library to work with the Quran in JavaScript. | 
 | [react-authentication-component](https://www.npmjs.com/package/react-authentication-component) | A reusable authentication component for React apps. |
 | [arabic-number-converter](https://www.npmjs.com/package/arabic-number-converter) | A utility to convert Arabic numerals to Roman numerals. |
+| [node-initdb](https://www.npmjs.com/package/node-initdb) | node-initdb is a CLI tool for initializing database configurations and structures in Node.js projects. |
 
 ---
 
@@ -156,7 +157,7 @@
 [![daynightbanner](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAshraf701&repo=daynightbanner&theme=transparent&show_icons=true&hide_border=true&layout=compact)](https://github.com/MohamedAshraf701/daynightbanner)
 [![prayers_times](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAshraf701&repo=prayers_times&theme=transparent&show_icons=true&hide_border=true&layout=compact)](https://github.com/MohamedAshraf701/prayers_times)
 [![gradient-icon](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAshraf701&repo=gradient-icon&theme=transparent&show_icons=true&hide_border=true&layout=compact)](https://github.com/MohamedAshraf701/gradient-icon)
-[![npm_quran_sharif](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAshraf701&repo=npm_quran_sharif&theme=transparent&show_icons=true&hide_border=true&layout=compact)](https://github.com/MohamedAshraf701/npm_quran_sharif)
+[![node-initdb](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAshraf701&repo=node-cli&theme=transparent&show_icons=true&hide_border=true&layout=compact)](https://github.com/MohamedAshraf701/node-cli)
 
 
 ---
