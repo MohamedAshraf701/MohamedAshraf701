@@ -3,9 +3,7 @@ Got it! You want a README similar to the image you provided, with a clean and or
 ---
 
 # Mohamed Ashraf701 🌙
-
-![Tech Stack Icons](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![Node.js](https://img.shields.io/badge/Node.js-brightgreen?style=flat&logo=node.js) ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter) ![React](https://img.shields.io/badge/React-black?style=flat&logo=react)  
-![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?style=flat&logo=mysql)  
+ 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow?style=flat&logo=huggingface) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch) ![Milvus](https://img.shields.io/badge/Milvus-purple?style=flat&logo=milvus)![Android](https://img.shields.io/badge/Android-green?style=flat&logo=android&link=https://developer.android.com)
 ![Appwrite](https://img.shields.io/badge/Appwrite-red?style=flat&logo=appwriteio&link=https://appwrite.io)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonwebservices&link=https://aws.amazon.com)
@@ -38,7 +36,7 @@ Got it! You want a README similar to the image you provided, with a clean and or
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&link=https://www.postgresql.org)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&link=https://postman.com)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&link=https://www.python.org)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch&link=https://pytorch.org/)
+![PyTorch](https://img.shields.io/badge/PyTorch-white?style=flat&logo=pytorch&link=https://pytorch.org/)
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&link=https://reactjs.org)
 ![React Native](https://img.shields.io/badge/React_Native-blue?style=flat&logo=react&link=https://reactnative.dev)
 ![Redux](https://img.shields.io/badge/Redux-purple?style=flat&logo=redux&link=https://redux.js.org)
