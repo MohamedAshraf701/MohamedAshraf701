@@ -47,12 +47,18 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-brightgreen?style=flat&logo=vue.js)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-deepurple?style=flat&logo=adobe-xd)
 
-###
+---
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/MohamedAshraf701/MohamedAshraf701/output/snake.svg" alt="Snake animation" />
 
-###
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MohamedAshraf701/count.svg?"  />
+</div>
+
+---
 
 <div align="left">
   <a href="https://instagram.com/ashraf_7_0_1?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
@@ -89,12 +95,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MohamedAshraf701/count.svg?"  />
-</div>
-
----
-
 ## 🛠 **Skills & Technologies**
 
 | **Category**        | **Skills**                                                                                                   |
@@ -109,6 +109,7 @@
 | **Mobile Development**   | Flutter, React Native, Android                                                                          |
 | **Backend as a Service (BaaS)** | Firebase, Supabase, Appwrite, Losant(IOT)                                                        |
 
+---
 
 ## 🤖 Hugging Face Repositories:
 
