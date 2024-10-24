@@ -48,7 +48,6 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-deepurple?style=flat&logo=adobe-xd)
 
 ---
-
 <br clear="both">
 <img src="https://raw.githubusercontent.com/MohamedAshraf701/MohamedAshraf701/output/snake.svg" alt="Snake animation" />
 
@@ -148,15 +147,17 @@
 
 ## 🚀 Work Experience:
 
-### Coderkube Technologies
-- Worked on developing and maintaining mobile applications using Flutter and Dart.
-- Collaborated with the team to design, develop, and implement app features and functionalities.
-- Integrated Firebase for user authentication, real-time database, and cloud storage.
-- Utilized REST API calls for data retrieval and manipulation.
-- Implemented socket connections for real-time communication features.
-- Worked closely with designers and product managers to ensure seamless user experiences.
-- Participated in code reviews, testing, and debugging to ensure high-quality codebase.
-- Developed and maintained documentation for codebase and project requirements.
+### Full-Stack Developer (Flutter, Node.js, Python)
+
+#### Coderkube Technologies
+
+	•	Led the development and maintenance of mobile applications using Flutter and Dart, collaborating with cross-functional teams including designers and product managers to deliver high-quality user experiences.
+	•	Integrated Firebase services for user authentication, real-time database, and cloud storage, ensuring secure and efficient data handling.
+	•	Developed server-side logic using Node.js, implementing RESTful APIs for data retrieval, manipulation, and real-time communication via socket connections.
+	•	Built and optimized Python-based backend solutions for data processing and automation, enhancing system efficiency.
+	•	Contributed to code reviews, testing, and debugging across multiple codebases, ensuring the delivery of robust, high-performing applications.
+	•	Managed API integration and deployment in various environments, ensuring seamless connectivity between front-end and back-end systems.
+	•	Documented technical requirements, project processes, and codebase for future reference and team collaboration.
 
 ---
 
