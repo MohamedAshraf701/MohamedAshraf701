@@ -157,6 +157,20 @@ Got it! You want a README similar to the image you provided, with a clean and or
 | **AI/ML**        | PyTorch, TensorFlow, Hugging Face, Transformers, Kaggle                        |
 | **Other Tools**  | Firebase, Supabase, Appwrite, Losant                                           |
 
+## 🛠 **Skills & Technologies**
+
+| **Category**        | **Skills**                                                                                                   |
+|---------------------|--------------------------------------------------------------------------------------------------------------|
+| **Programming Languages** | JavaScript, TypeScript, Python, Dart, C#, C++, Kotlin, Java                                                   |
+| **Frontend Development**  | React.js, Flutter, Shopify                                                                              |
+| **Backend Development**   | Express.js, FastAPI, Flask, GraphQL                                                                   |
+| **AI/ML**           | PyTorch, TensorFlow, Hugging Face, Transformers, Kaggle, Milvus (AI DB)                                        |
+| **Databases**       | MongoDB, MySQL, DynamoDB, MsSQL                                                                               |
+| **Cloud & DevOps**  | AWS, Docker, Nginx, Jenkins, GitHub Actions, CI/CD, SSL, TLS, Apache, VPN, VPS                                |
+| **Automation & CI/CD** | Jenkins, GitHub Actions, GitHub Workflows                                                                  |
+| **Mobile Development**   | Flutter, React Native, Android                                                                                   |
+| **Backend as a Service (BaaS)** | Firebase, Supabase, Appwrite, Losant(IOT)                                                                     |
+
 ---
 
 ## 📫 **Get in Touch**
