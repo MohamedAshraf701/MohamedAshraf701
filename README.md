@@ -1,61 +1,52 @@
 <h2 align="left">MohamedAshraf701 💫</h2>
 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-</div>
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-brightyellow?style=flat&logo=huggingface) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-deeporange?style=flat&logo=tensorflow) 
+![PyTorch](https://img.shields.io/badge/PyTorch-darkorange?style=flat&logo=pytorch) 
+![Milvus](https://img.shields.io/badge/Milvus-darkblue?style=flat&logo=milvus)
+![Android](https://img.shields.io/badge/Android-darkgreen?style=flat&logo=android)
+![Appwrite](https://img.shields.io/badge/Appwrite-pink?style=flat&logo=appwriteio)
+![AWS](https://img.shields.io/badge/AWS-darkgray?style=flat&logo=amazonwebservices)
+![Bash](https://img.shields.io/badge/Bash-darkgray?style=flat&logo=gnu-bash)
+![C](https://img.shields.io/badge/C-darkblue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-royalblue?style=flat&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-darkpurple?style=flat&logo=csharp)
+![Docker](https://img.shields.io/badge/Docker-deepskyblue?style=flat&logo=docker)
+![Express.js](https://img.shields.io/badge/Express.js-gray?style=flat&logo=express)
+![Figma](https://img.shields.io/badge/Figma-purple?style=flat&logo=figma)
+![Firebase](https://img.shields.io/badge/Firebase-darkyellow?style=flat&logo=firebase)
+![Flutter](https://img.shields.io/badge/Flutter-lightblue?style=flat&logo=flutter)
+![Framer](https://img.shields.io/badge/Framer-darkpurple?style=flat&logo=framer)
+![Git](https://img.shields.io/badge/Git-darkorange?style=flat&logo=git)
+![GraphQL](https://img.shields.io/badge/GraphQL-deeppink?style=flat&logo=graphql)
+![Java](https://img.shields.io/badge/Java-darkred?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-darkyellow?style=flat&logo=javascript)
+![Jenkins](https://img.shields.io/badge/Jenkins-maroon?style=flat&logo=jenkins)
+![Linux](https://img.shields.io/badge/Linux-darkyellow?style=flat&logo=linux)
+![MariaDB](https://img.shields.io/badge/MariaDB-lightblue?style=flat&logo=mariadb)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb)
+![MSSQL](https://img.shields.io/badge/MSSQL-darkred?style=flat&logo=microsoft-sql-server)
+![MySQL](https://img.shields.io/badge/MySQL-darkblue?style=flat&logo=mysql)
+![Next.js](https://img.shields.io/badge/Next.js-lightgray?style=flat&logo=nextdotjs)
+![Nginx](https://img.shields.io/badge/Nginx-darkgreen?style=flat&logo=nginx)
+![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=flat&logo=node.js)
+![OpenCV](https://img.shields.io/badge/OpenCV-darkblue?style=flat&logo=opencv)
+![Oracle](https://img.shields.io/badge/Oracle-deepred?style=flat&logo=oracle)
+![Pandas](https://img.shields.io/badge/Pandas-deeppurple?style=flat&logo=pandas)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-deepblue?style=flat&logo=postgresql)
+![Postman](https://img.shields.io/badge/Postman-brightorange?style=flat&logo=postman)
+![Python](https://img.shields.io/badge/Python-darkblue?style=flat&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-brightred?style=flat&logo=pytorch)
+![React](https://img.shields.io/badge/React-lightblue?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-lightblue?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/Redux-darkpurple?style=flat&logo=redux)
+![SQLite](https://img.shields.io/badge/SQLite-brightblue?style=flat&logo=sqlite)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-darkorange?style=flat&logo=tensorflow)
+![TypeScript](https://img.shields.io/badge/TypeScript-darkblue?style=flat&logo=typescript)
+![Vue.js](https://img.shields.io/badge/Vue.js-brightgreen?style=flat&logo=vue.js)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-deepurple?style=flat&logo=adobe-xd)
+
 
 ###
 
