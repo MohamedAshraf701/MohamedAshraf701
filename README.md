@@ -87,29 +87,38 @@
   </a>
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MohamedAshraf701/count.svg?"  />
 </div>
 
-###
 ---
 
 ## 🛠 **Skills & Technologies**
 
-| **Category**      | **Skills**                                                                                                          |
-|-------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Languages**     | JavaScript, Python, TypeScript, Dart, C#, C++, Node.js                                                              |
-| **Frameworks**    | Flutter, React.js, Express.js, .NET, Shopify, FastAPI, Flask                                                        |
-| **AI/ML**         | PyTorch, TensorFlow, Hugging Face, Transformers, Kaggle, Milvus (AI DB)                                             |
-| **Databases**     | MongoDB, MySQL, DynamoDB, MsSQL                                                                                     |
-| **DevOps**        | AWS, Nginx, Docker, Jenkins, GitHub Actions, CI/CD, SSL, TLS, Apache                                                |
-| **Other Services**| Firebase, Supabase, Appwrite, Losant, Jenkins, GitHub Workflows, VPN, VPS                                           |
----
+| **Category**        | **Skills**                                                                                                   |
+|---------------------|--------------------------------------------------------------------------------------------------------------|
+| **Programming Languages** | JavaScript, TypeScript, Python, Dart, C#, C++, Kotlin, Java                                            |
+| **Frontend Development**  | React.js, Flutter, Shopify                                                                             |
+| **Backend Development**   | Express.js, FastAPI, Flask, GraphQL                                                                    |
+| **AI/ML**           | PyTorch, TensorFlow, Hugging Face, Transformers, Kaggle, Milvus (AI DB)                                      |
+| **Databases**       | MongoDB, MySQL, DynamoDB, MsSQL                                                                              |
+| **Cloud & DevOps**  | AWS, Docker, Nginx, Jenkins, GitHub Actions, CI/CD, SSL, TLS, Apache, VPN, VPS                               |
+| **Automation & CI/CD** | Jenkins, GitHub Actions, GitHub Workflows                                                                 |
+| **Mobile Development**   | Flutter, React Native, Android                                                                          |
+| **Backend as a Service (BaaS)** | Firebase, Supabase, Appwrite, Losant(IOT)                                                        |
 
-# Support
-<p><a href="https://www.buymeacoffee.com/ashraf704"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashraf704" /></a></p><br><br>
+
+## 🤖 Hugging Face Repositories:
+
+| Repository Name | Description |
+|-----------------|-------------|
+| [multi-qa-MiniLM-L6-cos-v1-products](https://huggingface.co/MohamedAshraf701/multi-qa-MiniLM-L6-cos-v1-products) | A predictions model fine-tuned on product-related data. |
+| [lang-8](https://huggingface.co/datasets/MohamedAshraf701/lang-8) | A dataset from the Lang-8 Corpus used for training language models. |
+| [query-response-dataset](https://huggingface.co/datasets/MohamedAshraf701/query-response-dataset) | A dataset for generating short and detailed responses based on queries. |
+| [sentence-corrector](https://huggingface.co/datasets/MohamedAshraf701/sentence-corrector) | A dataset used to train a sentence correction model. |
+| [Products-Details](https://huggingface.co/datasets/MohamedAshraf701/Products-Details) | A dataset containing detailed information about products, including categories and specifications. |
 
 ---
 
@@ -168,4 +177,10 @@
 ---
 ## 🌱 Open to Work:
 If you have an interesting project or job opportunity, feel free to reach out to me.
+
+---
+
+# Support
+<p><a href="https://www.buymeacoffee.com/ashraf704"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashraf704" /></a></p><br><br>
+
 
