@@ -53,36 +53,37 @@ Got it! You want a README similar to the image you provided, with a clean and or
 
 <div align="left">
   <a href="https://instagram.com/ashraf_7_0_1?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="45" alt="instagram logo" />
   </a>
   <a href="https://discord.gg/zEEJJduV" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" height="45" alt="discord logo" />
   </a>
   <a href="mailto:ashrafchauhan567@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="45" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/ashraf-chauhan-39bb5a230" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="45" alt="linkedin logo" />
   </a>
   <a href="https://www.facebook.com/ashraf.chauhan.906?mibextid=LQQJ4d" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="45" alt="facebook logo" />
   </a>
   <a href="https://stackoverflow.com/users/22268421/zaid-chauhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" height="45" alt="stackoverflow logo" />
   </a>
   <a href="https://medium.com/@ashrafchauhan567" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="medium logo"  />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" height="45" alt="medium logo" />
   </a>
   <a href="https://twitter.com/ashrafchauhan67" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="45" alt="twitter logo" />
   </a>
   <a href="https://wa.me/message/IX32D7GGGQ3OE1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=flat&logo=whatsapp&logoColor=white" height="45" alt="whatsapp logo" />
   </a>
   <a href="https://huggingface.co/MohamedAshraf701" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD300?style=for-the-badge&logo=huggingface&logoColor=white" height="45" alt="huggingface logo"  />
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD300?style=flat&logo=huggingface&logoColor=white" height="45" alt="huggingface logo" />
   </a>
 </div>
+
 
 ---
 
