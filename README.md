@@ -92,6 +92,9 @@
   <a href="https://wa.me/message/IX32D7GGGQ3OE1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
+  <a href="https://huggingface.co/MohamedAshraf701" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD300?style=for-the-badge&logo=huggingface&logoColor=white" height="35" alt="huggingface logo"  />
+  </a>
 </div>
 
 ###
