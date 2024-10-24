@@ -47,7 +47,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-brightgreen?style=flat&logo=vue.js)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-deepurple?style=flat&logo=adobe-xd)
 
-
 ###
 
 <br clear="both">
@@ -88,7 +87,6 @@
   </a>
 </div>
 
-
 ###
 
 <div align="center">
@@ -96,6 +94,18 @@
 </div>
 
 ###
+---
+
+## 🛠 **Skills & Technologies**
+
+| **Category**      | **Skills**                                                                                                          |
+|-------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Languages**     | JavaScript, Python, TypeScript, Dart, C#, C++, Node.js                                                              |
+| **Frameworks**    | Flutter, React.js, Express.js, .NET, Shopify, FastAPI, Flask                                                        |
+| **AI/ML**         | PyTorch, TensorFlow, Hugging Face, Transformers, Kaggle, Milvus (AI DB)                                             |
+| **Databases**     | MongoDB, MySQL, DynamoDB, MsSQL                                                                                     |
+| **DevOps**        | AWS, Nginx, Docker, Jenkins, GitHub Actions, CI/CD, SSL, TLS, Apache                                                |
+| **Other Services**| Firebase, Supabase, Appwrite, Losant, Jenkins, GitHub Workflows, VPN, VPS                                           |
 ---
 
 # Support
