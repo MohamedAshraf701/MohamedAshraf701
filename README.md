@@ -151,13 +151,13 @@
 
 #### Coderkube Technologies
 
-	•	Led the development and maintenance of mobile applications using Flutter and Dart, collaborating with cross-functional teams including designers and product managers to deliver high-quality user experiences.
-	•	Integrated Firebase services for user authentication, real-time database, and cloud storage, ensuring secure and efficient data handling.
-	•	Developed server-side logic using Node.js, implementing RESTful APIs for data retrieval, manipulation, and real-time communication via socket connections.
-	•	Built and optimized Python-based backend solutions for data processing and automation, enhancing system efficiency.
-	•	Contributed to code reviews, testing, and debugging across multiple codebases, ensuring the delivery of robust, high-performing applications.
-	•	Managed API integration and deployment in various environments, ensuring seamless connectivity between front-end and back-end systems.
-	•	Documented technical requirements, project processes, and codebase for future reference and team collaboration.
+• Led the development and maintenance of mobile applications using Flutter and Dart, collaborating with cross-functional teams including designers and product managers to deliver high-quality user experiences.
+• Integrated Firebase services for user authentication, real-time database, and cloud storage, ensuring secure and efficient data handling.
+• Developed server-side logic using Node.js, implementing RESTful APIs for data retrieval, manipulation, and real-time communication via socket connections.
+• Built and optimized Python-based backend solutions for data processing and automation, enhancing system efficiency.
+• Contributed to code reviews, testing, and debugging across multiple codebases, ensuring the delivery of robust, high-performing applications.
+• Managed API integration and deployment in various environments, ensuring seamless connectivity between front-end and back-end systems.
+• Documented technical requirements, project processes, and codebase for future reference and team collaboration.
 
 ---
 
