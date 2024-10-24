@@ -74,7 +74,7 @@ Got it! You want a README similar to the image you provided, with a clean and or
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" height="45" alt="medium logo" />
   </a>
   <a href="https://twitter.com/ashrafchauhan67" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white" height="45" alt="twitter logo" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" height="45" alt="twitter logo" />
   </a>
   <a href="https://wa.me/message/IX32D7GGGQ3OE1" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-25D366?style=flat&logo=whatsapp&logoColor=white" height="45" alt="whatsapp logo" />
