@@ -1,5 +1,10 @@
 <h2 align="left">MohamedAshraf701 💫</h2>
 
+Full Stack Developer | AI/ML Enthusiast | DevOps Engineer
+
+🚀 Passionate about building innovative AI models, developing full-stack applications, and managing scalable cloud infrastructures.
+
+---
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-brightyellow?style=flat&logo=huggingface) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-deeporange?style=flat&logo=tensorflow) 
